@@ -1,0 +1,3 @@
+[submodule "mean-stack/salt-states"]
+	path = mean-stack/salt-states
+	url = git://github.com/jdivy/salt-states.git
